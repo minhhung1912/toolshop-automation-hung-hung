@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+test-results/
+playwright-report/
+report*.html
+.env
+.vscode/mcp.json
+.vscode
